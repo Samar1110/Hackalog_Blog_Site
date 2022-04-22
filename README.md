@@ -53,6 +53,10 @@ On clicking the Read More it leads to the page containing the whole text of the 
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/11.png?raw=true)
 
+# Deployed Site
+ 
+ [Blogsian](https://protected-river-94340.herokuapp.com/)
+ 
 - - - -
 
 Name : Samar Singh Randhawa
