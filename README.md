@@ -2,4 +2,4 @@
 
 I have Launched My website using Heroku CLI as,it was not connecting to my github account
 
-![alt text]("D:\Users\user\Desktop\VS Problems\Web Devlopement\Cops Week\1.png")
+![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readme/1.jpg?raw=true)
