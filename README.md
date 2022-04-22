@@ -4,7 +4,10 @@
 
 Blogsian is a blog site where user can add his/her own blogs and share it around the world.The person can create his/her blog in the Compose section and see the respective blog in the Blog section.This website can be used in any device whether laptop, phone, tablet, etc.This website is launched using heroku CLI.
 
-#Tech Stack
+# Tech Stack
+
+* CSS for basic styling
+* Bootstrap for improving the interface so that site can be used in any device 
 
 # Home Page
 
