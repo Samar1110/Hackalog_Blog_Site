@@ -32,7 +32,7 @@ After publishing our blog it appaears on our blogpage
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/9.png?raw=true)
 
-#Post
+# Post
 
 On clicking the Read More it leads to the page containing the whole text of the blog 
 
