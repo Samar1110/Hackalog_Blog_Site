@@ -1,8 +1,10 @@
-# Hackalog_Blog_Site
+# Debugit 2022 - Blog
 
 # Introduction
 
-I have Launched My website using Heroku CLI as,it was not connecting to my github account
+Blogsian is a blog site where user can add his/her own blogs and share it around the world.The person can create his/her blog in the Compose section and see the respective blog in the Blog section.This website can be used in any device whether laptop, phone, tablet, etc.This website is launched using heroku CLI.
+
+#Tech Stack
 
 # Home Page
 
