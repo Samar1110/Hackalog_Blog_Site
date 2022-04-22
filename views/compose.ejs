@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/compose.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+   
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&family=Gideon+Roman&family=Merriweather:wght@300&family=Poppins:wght@300&family=Roboto&family=Roboto+Slab&display=swap" rel="stylesheet">
+    <title>Compose</title>
+    <link rel="icon" href="/images/icons/compose.png" type="image/icon type">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="font-size: 1.5rem;font-family: 'Poppins', sans-serif;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#" style="font-size: 1.5rem;padding-left: 20px;">Blogsian</a>
+      <div>
+        <img style="height: 3vh;margin-left: 10px;" src="/images/icons/logo.png">
+      </div>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse flex-row-reverse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a id="home" class="nav-link " aria-current="page" href="/">Home</a>
+            
+          </li>
+          <li class="nav-item">
+            <a id="about" class="nav-link " href="/about">About Us</a>
+           
+          </li>
+
+          <li class="nav-item">
+            <a id="compose" class="nav-link active" href="/compose">Compose</a>
+            
+          </li>
+          <li class="nav-item">
+            <a id="blog" class="nav-link " href="/blog">Blogs</a>
+            
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+      <div class=" text-center align-middle d-flex align-items-center" >
+        <div class="banner d-flex align-items-center text-center">
+          <div class="container-fluid text-center justify-content-center ">
+            <div class="container-fluid text-center justify-content-center ">
+                <h1 class="composeHeading">Compose</h1>
+            </div>
+          </div>
+          </div>
+        </div>
+    
+    
+    
+    
+    
+        
+        <form class="" action="/compose" method="post" style="margin: 40px;padding: 20px;">
+          <div class="form-group">
+            <label style="font-size: 2rem;font-family: 'Roboto', sans-serif;">Title</label>
+            <input class="form-control" type="text" name="postTitle">
+            <label style="font-size: 2rem;font-family: 'Roboto', sans-serif;">Author</label>
+            <input class="form-control" type="text" name="postAuthor">
+            <label style="font-size: 2rem;font-family: 'Roboto', sans-serif;">Post</label>
+            <textarea class="form-control" name="postBody" rows="5" cols="30"></textarea>
+          </div>
+          <div style="display: flex;justify-content: center;margin-top: 20px;">
+            <button class="btn  rounded-pill btnColor" type="submit" name="button" style="font-size:1.5rem;padding: 20px;color: black;background-color: #e9ecef;">Publish</button>
+          </div>
+          
+        </form>
+    
+    
+        <footer>
+        
+          <div class="text-center " style="padding: 40px;margin-top: 40px;background-color: #e9ecef;">
+            <p class="copyright">Copyright 2022 Phantom</p>
+          </div>
+      </div>
+      </footer> 
+    
+</body>
+
+</html>
+
+
+
+

@@ -1,0 +1,45 @@
+.banner{
+    background-image: url('/images/banner/banner1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block; 
+    object-fit: cover; 
+    border-radius: 0px; 
+    width: 100%; 
+    height: 40vh; 
+    opacity: 1; 
+
+    margin-top: 0;
+}
+.navbar-nav  li a:hover {
+  color: #1abc9c !important;
+}
+
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  .composeHeading{
+    padding: 30px; 
+    font-size: 5rem;
+    color: white;
+    font-family: 'Merriweather', serif;
+  }
+  .copyright{
+    color: black;
+    font-size: 3rem;
+    font-family: 'Gideon Roman', cursive;
+  }
+  @media screen and (max-width: 500px){
+    .composeHeading{
+    
+        font-size: 3.5rem;
+    
+      }
+      .copyright{
+
+        font-size: 2rem;
+        
+      }
+  }

@@ -1,0 +1,32 @@
+{
+  "name": "debugit_2022.blogsite",
+  "version": "1.0.0",
+  "description": "BlogSite",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samar1110/Debugit_2022.BlogSite.git"
+  },
+  "author": "Samar_Singh_Randhawa",
+  "license": "ISC",
+  "engines": {
+    "node": "16.14.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Samar1110/Debugit_2022.BlogSite/issues"
+  },
+  "homepage": "https://github.com/Samar1110/Debugit_2022.BlogSite#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.6"
+  }
+}
