@@ -13,3 +13,9 @@ I have Launched My website using Heroku CLI as,it was not connecting to my githu
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/3.png?raw=true)
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/4.png?raw=true)
+
+# Compose
+
+![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/5.png?raw=true)
+
+![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/6.png?raw=true)
