@@ -16,6 +16,8 @@ Blogsian is a blog site where user can add his/her own blogs and share it around
 
 # Home Page
 
+The user can compose the blog using the button **Create your own blog** or go to the **Compose** section to publish a blog
+
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/1.png?raw=true)
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/2.png?raw=true)
