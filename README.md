@@ -56,5 +56,7 @@ On clicking the Read More it leads to the page containing the whole text of the 
 - - - -
 
 Name : Samar Singh Randhawa
+
 Email : samarsingh.randhawa.ece21@itbhu.ac.in
+
 Team Name : Phantom
