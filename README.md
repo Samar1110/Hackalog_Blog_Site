@@ -6,8 +6,13 @@ Blogsian is a blog site where user can add his/her own blogs and share it around
 
 # Tech Stack
 
-* CSS for basic styling
-* Bootstrap for improving the interface so that site can be used in any device 
+* CSS for basic styling of the website
+* Bootstap5 to further improve the interface of site
+* JAVASCRIPT for adding functionality to our website
+" EJS is used for creating templates 
+* Express for backend
+* Node.js
+* Mongo DB for storing data
 
 # Home Page
 
@@ -28,12 +33,13 @@ Blogsian is a blog site where user can add his/her own blogs and share it around
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/6.png?raw=true)
 
 # After composing a blog page and then publishing it
+Publish your created blog by clicking the publish button
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/7.png?raw=true)
 
 # Blog
 
-After publishing our blog it appaears on our blogpage
+After publishing our blog it appaears on our Blog page
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/8.png?raw=true)
 
@@ -46,3 +52,9 @@ On clicking the Read More it leads to the page containing the whole text of the 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/10.png?raw=true)
 
 ![alt text](https://github.com/Samar1110/Hackalog_Blog_Site/blob/master/readmeimg/11.png?raw=true)
+
+- - - -
+
+Name : Samar Singh Randhawa
+Email : samarsingh.randhawa.ece21@itbhu.ac.in
+Team Name : Phantom
