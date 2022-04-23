@@ -14,7 +14,7 @@ Blogsian is a blog site where user can add his/her own blogs and share it around
 * Node.js
 * Mongo DB for storing data
 
-# Video Link
+# Project walkthrough video
 [Video](https://drive.google.com/file/d/1_XCmg6iNe1pWC9J0OVaOrMVi84pI71Pf/view?usp=sharing)
 
 # Home Page
